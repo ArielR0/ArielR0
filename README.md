@@ -23,7 +23,7 @@ Ao longo da minha jornada, venho desenvolvendo aplicações web, sistemas de ger
 
 ---
 
-## 💼 Experiência em TI
+## 💼 Welcome to Technology!
 
 Minha experiência com tecnologia vem principalmente do desenvolvimento de projetos próprios e da criação de soluções para problemas reais.
 
