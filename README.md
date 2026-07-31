@@ -15,19 +15,19 @@ Atualmente, estou me aprofundando em **desenvolvimento Full Stack, automação c
 
 Gosto de aprender colocando a mão na massa e transformar ideias em soluções funcionais.
 
-Ao longo da minha jornada, venho desenvolvendo aplicações web, sistemas de gerenciamento, jogos e projetos envolvendo Inteligência Artificial.
+Ao longo da minha jornada, venho desenvolvendo aplicações Web, sistemas de gerenciamento, jogos e projetos envolvendo Inteligência Artificial.
 
-🎯 Meu objetivo é me tornar um **Full Stack Developer**, construindo soluções completas e úteis, desde o front-end até o back-end e infraestrutura.
+🎯 Meu objetivo é me tornar um **Full Stack Developer**, construindo soluções completas e úteis, desde o front-end até o back-end e a infraestrutura.
 
 > 💡 "Programadores e artistas são os únicos profissionais que têm como hobby a própria profissão."
 
 ---
 
-## 💼 Welcome to Technology!
+## 💼 My Journey in Technology
 
 Minha experiência com tecnologia vem principalmente do desenvolvimento de projetos próprios e da criação de soluções para problemas reais.
 
-Ao longo da minha trajetória, venho trabalhando com:
+Ao longo da minha trajetória, venho adquirindo experiência prática com:
 
 - 💻 Desenvolvimento de aplicações Web
 - 🐍 Desenvolvimento de sistemas utilizando Python e Flask
@@ -40,7 +40,7 @@ Ao longo da minha trajetória, venho trabalhando com:
 - 📦 Empacotamento e distribuição de aplicações
 - 🧠 Desenvolvimento de projetos envolvendo Inteligência Artificial
 
-Tenho experiência prática desenvolvendo sistemas completos, desde a construção da interface até a lógica de back-end, banco de dados e integração entre diferentes tecnologias.
+Tenho experiência prática no desenvolvimento de sistemas completos, trabalhando desde a construção da interface até a lógica de back-end, banco de dados e integração entre diferentes tecnologias.
 
 ---
 
@@ -73,7 +73,8 @@ Tenho experiência prática desenvolvendo sistemas completos, desde a construç�
 
 Uma simulação de cérebro neural distribuído criada para demonstrar conceitos de Inteligência Artificial de forma interativa.
 
-**Tech Stack:** `Python` `Flask` `Flask-SocketIO` `WebSockets` `SQLite`
+**Tech Stack:**  
+`Python` `Flask` `Flask-SocketIO` `WebSockets` `SQLite`
 
 ---
 
@@ -81,7 +82,8 @@ Uma simulação de cérebro neural distribuído criada para demonstrar conceitos
 
 Plataforma de formação desenvolvida para gerenciamento de conteúdos, etapas de aprendizado, grupos e experiências educacionais.
 
-**Tech Stack:** `Python` `Flask` `HTML` `CSS` `JavaScript` `SQLite`
+**Tech Stack:**  
+`Python` `Flask` `HTML` `CSS` `JavaScript` `SQLite`
 
 ---
 
@@ -89,9 +91,11 @@ Plataforma de formação desenvolvida para gerenciamento de conteúdos, etapas d
 
 Projeto de desenvolvimento de jogos 2D criado para explorar programação, lógica e desenvolvimento de games.
 
-**Tech Stack:** `Python` `Pygame`
+**Tech Stack:**  
+`Python` `Pygame`
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -110,7 +114,8 @@ Projeto de desenvolvimento de jogos 2D criado para explorar programação, lógi
     src="https://streak-stats.demolab.com?user=ArielR0&theme=tokyonight&hide_border=true" 
     height="180"
   />
-</p> 
+</p>
+
 ---
 
 ## 🎯 Atualmente
