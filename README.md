@@ -92,9 +92,6 @@ Projeto de desenvolvimento de jogos 2D criado para explorar programação, lógi
 **Tech Stack:** `Python` `Pygame`
 
 ---
-
-## 📊 GitHub Stats
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -113,8 +110,7 @@ Projeto de desenvolvimento de jogos 2D criado para explorar programação, lógi
     src="https://streak-stats.demolab.com?user=ArielR0&theme=tokyonight&hide_border=true" 
     height="180"
   />
-</p>
-
+</p> 
 ---
 
 ## 🎯 Atualmente
