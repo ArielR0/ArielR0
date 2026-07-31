@@ -95,7 +95,25 @@ Projeto de desenvolvimento de jogos 2D criado para explorar programação, lógi
 
 ## 📊 GitHub Stats
 
-![ArielR0 GitHub stats](https://github-readme-stats.vercel.app/api?username=ArielR0&show_icons=true&theme=dark)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ArielR0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielR0&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=ArielR0&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
+</p>
 
 ---
 
